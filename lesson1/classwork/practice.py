@@ -27,4 +27,4 @@ print(LN)
 FN = "Some"
 Age = 12
 favorite_color = "red"
-print("My name is", FN + ", I am", Age, "years old, and my favorite color is", favorite_color + ".")
+print("My name is", FN + ",I am", Age, "years old, and my favorite color is", favorite_color + ".")
