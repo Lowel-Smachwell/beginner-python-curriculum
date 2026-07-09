@@ -18,4 +18,10 @@ print((2 + 3) * 4) # 20 (2 + 3 = 5, then 5 * 4 = 20)
 a = 8
 b = 3
 print("a + b =", a + b)
-print("a * b")
+print("a * b", a * b)
+print("a + b", a / b)
+
+x = 12
+y = 5
+print("Quotient:", x // y)
+print("Remainder:", x % y)
